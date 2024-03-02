@@ -1,0 +1,21 @@
+{
+  "title_app": "WallPaper Center",
+  "title_mode": "App Appearance",
+  "sys_pre": "System Preference",
+  "light_mode": "Light Mode",
+  "dark_mode": "Dark Mode",
+  "feed_back": "Feed Back",
+  "privacy": "Privacy Policy",
+  "home": "Home",
+  "categories": "Categories",
+  "favorite": "Favorite",
+  "set_wallpaper": "Set Wallpaper",
+  "set_lock_screen": "Set Lock Screen",
+  "set_both": "Set Both",
+  "save_to_media_folder": "Save To Media Folder",
+  "what_wyl": "What would like to do?",
+  "saved": "Ảnh đã được lưu vào thiết bị",
+  "set_wall_done": "Ảnh nền đã được thay đổi",
+  "set_failed": "Thiết lập không thành công, vui lòng thử lại sau",
+  "save_failed": "Lưu ảnh không thành công, vui lòng thử lại sau"
+}
